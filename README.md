@@ -31,5 +31,7 @@
 <div>
   <h4>📱 Contact:</h4>
   <a href="https://www.linkedin.com/in/felipe-gomes173" target="_blank" rel="noopener noreferrer"><img width="120em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>    
+</div>
+    
+![Snake animation](https://github.com/FelipeGomesj/FelipeGomesj/blob/output/github-contribution-grid-snake.svg)
     
