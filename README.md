@@ -22,7 +22,7 @@
   <a href= "https://firebase.google.com/?gad=1&gclid=CjwKCAjw3ueiBhBmEiwA4BhspLGlaNCEZIDfQpqwxRllUnms_IJvhRdPLZFGRJ-LdUIGL3yvZXnNlRoC4NYQAvD_BwE&gclsrc=aw.ds&hl=pt-br" 
      target="_blank" rel="noopener noreferrer"><img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <a href= "https://nodejs.org/en/about" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <a href= "https://www.android.com/" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /> /a>
+  <a href= "https://www.android.com/" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></a>
   <div style="border-bottom: 5px dashed #000000; width: 100%; margin-bottom: 10px;">
   <h1></h1>
   </div>
