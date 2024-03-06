@@ -23,7 +23,9 @@
      target="_blank" rel="noopener noreferrer"><img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <a href= "https://nodejs.org/en/about" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <a href= "https://www.android.com/" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img  width="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" /></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img  width="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img  width="45em" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png" /></a>
+  <a href="https://www.oracle.com/br/database/sqldeveloper/" target="_blank" rel="noopener noreferrer"><img  width="45em" src="https://w7.pngwing.com/pngs/863/183/png-transparent-cylindrical-gray-and-green-container-illustration-oracle-sql-developer-oracle-database-pl-sql-oracle-application-express-sql-server-icon-miscellaneous-material-computer-icons-thumbnail.png"    /></a>  
   <div style="border-bottom: 5px dashed #000000; width: 100%; margin-bottom: 10px;">
   <h1></h1>
   </div>
