@@ -24,9 +24,11 @@
   <a href= "https://nodejs.org/en/about" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <a href= "https://www.android.com/" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img  width="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img  width="65em" heigth="65em" src="https://www.pngitem.com/pimgs/m/174-1746763_spring-framework-logo-01-spring-boot-hd-png.png"/></a>
+  <!--
+    <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img  width="65em" heigth="65em" src="https://www.pngitem.com/pimgs/m/174-1746763_spring-framework-logo-01-spring-boot-hd-png.png"/></a>
   <a href="https://www.oracle.com/br/database/sqldeveloper/" target="_blank" rel="noopener noreferrer"><img  width="45em" src="https://img-c.udemycdn.com/course/750x422/4214464_84a0_3.jpg"/></a>  
   <div style="border-bottom: 5px dashed #000000; width: 100%; margin-bottom: 10px;">
+  -->
   <h1></h1>
   </div>
 </div>
