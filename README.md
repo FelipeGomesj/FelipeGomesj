@@ -1,9 +1,9 @@
-### Hello! I'm Felipe Gomes and welcome to my GitHub 👋
+### Hello! I'm Felipe Gomes and welcome to my GitHub Profile 👋
 
-<!-- - 🔭 I’m currently working on Dart/Flutter.
+<!-- - 🔭 I’m currently working a Full Stack Developer with HTML, CSS, JS,TS and Angular in the frontend and Java, SPRING BOOT AND ORACLE SQL in the backend.
 -->
-- 🌱 I’m currently learning HTML, CSS, JS.
-- 👨‍💻 I'm looking for a new job.
+- 🌱 I’m currently learning Java, Spring Boot, Angular and Oracle DB.
+- 👨‍💻 I'm looking for a international experience to improve my english.
 - ⚡ Fun fact: There are no clouds, it's just Linux servers. 
 
 <div>
