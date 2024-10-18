@@ -24,6 +24,23 @@
   <a href= "https://nodejs.org/en/about" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <a href= "https://www.android.com/" target="_blank" rel="noopener noreferrer"><img width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img  width="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" /></a>
+    
+   <a href="https://www.oracle.com/br/database/sqldeveloper/" target="_blank" rel="noopener noreferrer" >
+    <img width="120px" src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg" />
+   </a>
+
+<a href="https://angular.dev/" target="_blank" rel="noopener noreferrer">
+    <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
+</a>
+
+<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+</a>
+
+<a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
+    <img width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_L_wI6c3Q0s4Bp_RZc4Nz7pPV2y5_X0UTg&s" />
+</a>
+    
   <!--
     <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img  width="65em" heigth="65em" src="https://www.pngitem.com/pimgs/m/174-1746763_spring-framework-logo-01-spring-boot-hd-png.png"/></a>
   <a href="https://www.oracle.com/br/database/sqldeveloper/" target="_blank" rel="noopener noreferrer"><img  width="45em" src="https://img-c.udemycdn.com/course/750x422/4214464_84a0_3.jpg"/></a>  
